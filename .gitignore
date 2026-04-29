@@ -5,3 +5,4 @@ coverage/
 .codex-verification/
 *.tgz
 npm-debug.log*
+EVIDENCE_GATE_MCP_IMPLEMENTATION_GUIDE.md
