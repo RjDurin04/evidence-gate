@@ -98,7 +98,17 @@ To integrate Evidence Gate with an MCP-compatible client like Claude Desktop, yo
 }
 ```
 
-### 4. What Tools Does It Give The AI?
+### 4. Uninstallation
+
+If you installed the package globally via Step 1, you can uninstall it from your system by running:
+
+```bash
+npm uninstall -g @evidence-gate/mcp
+```
+
+After uninstalling, simply remove the `evidence-gate` section from your AI client's `mcp.json` configuration file, and you can safely delete the cloned repository folder.
+
+### 5. What Tools Does It Give The AI?
 
 Once connected, your AI coding agent will have access to these local tools:
 
