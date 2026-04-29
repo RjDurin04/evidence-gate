@@ -1,0 +1,7 @@
+node_modules/
+dist/
+coverage/
+.evidence-gate/
+.codex-verification/
+*.tgz
+npm-debug.log*
